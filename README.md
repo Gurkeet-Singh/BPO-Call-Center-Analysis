@@ -15,6 +15,9 @@ The report provides an exceptional analysis of the data and presents insights an
 ## Problems
 - The company has been facing client disputes resulting in a significant annual loss in revenue.
 - A considerable percentage of disputes raised against the company have resulted in a payment opt-out.
+![PostgreSQL1](https://github.com/Gurkeet-Singh/BPO-Call-Center-Analysis/assets/128712685/2adf8d5c-a395-49fa-8fba-5aa700ca581f)
+
+![Screenshot 2022-12-10 110504](https://github.com/Gurkeet-Singh/BPO-Call-Center-Analysis/assets/128712685/4c18117e-2cd7-48b7-a9a8-c7ae42b4f862)
 
 ## Goals
 - Determine the average processing time in which invoices are settled.
